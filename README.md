@@ -1,4 +1,4 @@
-****What the prompt does****
+# ****What the prompt does****
 
 The prompt tells the agent to work backwards from your code, not forwards from a template. It extracts three layers:
 
